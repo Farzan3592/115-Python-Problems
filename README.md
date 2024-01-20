@@ -2,6 +2,7 @@
     A variety of programming problems in Python covering different topics such as variables, strings, typecasting, data types, loops, lists, dictionaries, and recursion was explored. Here are the 115 problems:
     
 Basic Problems:
+
 1. Variable Swap: Write a Python program to swap the values of two variables without using a temporary variable.
 
 2. Even or Odd: Write a Python program that takes an integer as input and prints whether it is even or odd.
@@ -25,6 +26,7 @@ Basic Problems:
  
 
 Python Conditional Statements:
+
 11. Positive, Negative, or Zero: Write a Python program that takes a number as input and prints whether it is positive, negative, or zero.
 
 12. Largest of Three Numbers: Write a Python program that takes three numbers as input and prints the largest among them.
@@ -46,6 +48,7 @@ Python Conditional Statements:
  
 
 For & While Loops:
+
 20. Sum of N Numbers: Write a Python program using a for loop to calculate the sum of the first N natural numbers, where N is taken as input from the user.
 
 21. Factorial Calculator: Write a Python program using a while loop to calculate the factorial of a given number N.
@@ -69,6 +72,7 @@ For & While Loops:
  
 
 Nested Loops:
+
 30. Multiplication Table: Write a Python program using nested loops to print the multiplication table from 1 to 10.
 
 31. Print Patterns: Write a Python program using nested loops to print the following pattern:
@@ -90,6 +94,7 @@ Nested Loops:
  
 
 List Problems:
+
 34. List Sum: Write a Python program to find the sum of all elements in a given list of integers.
 
 35. List Average: Write a Python program to calculate the average of all elements in a given list of integers.
@@ -126,6 +131,7 @@ Nested List Problems:
  
 
 Tuple Problems:
+
 49. Tuple Concatenation: Write a Python program to concatenate two tuples and create a new tuple.
 
 50. Tuple Unpacking: Given a tuple with three elements (x, y, z), write a Python program to unpack the tuple and assign the values to three variables.
@@ -149,6 +155,7 @@ Tuple Problems:
  
 
 Nested List Problems:
+
 59. Nested List Element Access: Given a nested list, write a Python program to access and print specific elements from it.
 
 60. Nested List Flattening: Write a Python program to flatten a nested list and convert it into a single-dimensional list.
@@ -172,6 +179,7 @@ Nested List Problems:
  
 
 Set Problems:
+
 69. Duplicate Removal: Write a Python program that takes a list of elements as input and creates a new set containing only the unique elements from the list.
 
 70. Set Intersection: Given two sets A and B, write a Python program to find their intersection and print the common elements.
@@ -195,6 +203,7 @@ Set Problems:
  
 
 Dictionary Problems:
+
 77. Dictionary Manipulation: Given a dictionary with student names as keys and their corresponding scores as values, write a Python program to add a new student to the dictionary and update the score of an existing student.
 
 78. Dictionary Keys and Values: Write a Python program that takes a dictionary as input and prints all the keys and values in separate lines.
@@ -218,6 +227,7 @@ Dictionary Problems:
  
 
 Nested Dictionary Problems:
+
 87. Access Nested Dictionary: Given a nested dictionary containing student details, write a Python program to access and print specific information such as a student’s name, age, and address.
 
 88. Nested Dictionary Length: Write a Python program to calculate and print the total number of key-value pairs in a nested dictionary.
@@ -231,6 +241,7 @@ Nested Dictionary Problems:
  
 
 Break & Continue: 
+
 92. Prime Number Checker: Write a Python program that takes a number as input and determines if it is a prime number or not. Use a `for` loop to check for factors. If a factor is found, `break` out of the loop.
 
 93. Even Number Printer: Write a Python program to print all even numbers from 1 to 20. Use a `for` loop and `continue` to skip odd numbers.
@@ -254,6 +265,7 @@ Break & Continue:
  
 
 Functions Problems:
+
 102. Factorial Calculator: Write a Python function called `factorial` that takes an integer as input and returns its factorial. Test the function with different values.
 
 103. Palindrome Checker: Write a Python function called `is_palindrome` that takes a string as input and returns `True` if it is a palindrome and `False` otherwise. Test the function with different words.
@@ -278,6 +290,7 @@ Nested Functions Problems:
  
 
 Recursion:
+
 111. Factorial Calculation: Write a recursive Python function called `factorial` that takes a non-negative integer as input and returns its factorial.
 
 112. Fibonacci Series: Write a recursive Python function called `Fibonacci` that takes an integer N as input and returns the Nth number in the Fibonacci series. The Fibonacci series is defined as follows: F(0) = 0, F(1) = 1, and F(n) = F(n-1) + F(n-2) for n > 1.
@@ -288,5 +301,4 @@ Recursion:
 
 115. Power Calculation: Write a recursive Python function called `power` that takes two positive integers, base and exponent, as input and returns the value of base raised to the exponent.
 
-We have explored a variety of programming problems in Python covering different topics such as variables, strings, typecasting, data types, loops, lists, dictionaries, and recursion
 
